@@ -1,0 +1,57 @@
+body {
+  background-color: #012634;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: tomato;
+  font-family: helvetica;
+  margin-top: 80px;
+}
+
+p {
+  color: grey;
+  text-align: center;
+}
+
+h3  {
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+
+}
+
+
+h2 {
+  font-family: helvetica;
+  text-align: center;
+  font-size: 28px;
+  color: #4797b1;
+  margin-bottom: 40px;
+
+}
+
+.lenke {
+  text-align: left;
+}
+
+.bilde {
+  width: 300px;
+  border-radius: 50%;
+  border-color: tomato;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+li {
+  color: grey;
+}
+
+a {
+  color: #4797b1;
+}
